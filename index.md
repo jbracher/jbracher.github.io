@@ -2,6 +2,45 @@
 layout: default
 ---
 
-<body>
-<h1> Hello World bla <h1>
-</body>
+## Welcome to my personal web page.
+
+I am a postdoctoral researcher at the [Chair of Statistics and Econometrics at Karlsruhe Insitute of Technology](https://statistik.econ.kit.edu/english/index.php) and the [Computational Statistics Group at Heidelberg Institute of Theoretical Studies](https://www.h-its.org/research/cst/). I am moreover a fellow of the [YIG Preparation Programme](http://www.kit.edu/research/yig_prep_pro.php) at KIT. You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
+
+### Research Interests
+
+* Epidemic forecasting
+* Forecast evaluation
+* Count time series modelling
+
+
+### Short Bio
+
+* 2012: BSc Statistics, LMU Munich, Germany
+* 2013: BA Sociology, LMU Munich, Germany
+* 2016: MSc Statistics, LMU Munich, Germany
+* 2020: PhD Epidemiology and Biostatistics, University of Zurich, Switzerland. Thesis title: *Statistical modelling and forecsting of infectious disease surveillance counts.*
+* since May 2020: Postdoctoral researcher, KIT Karlsruhe and HITS Heidelberg, Germany
+
+### Current Projects
+
+My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot Project SIMCARD](https://www.helmholtz.de/en/research/information-data-science/information-data-science-pilot-projects/pilot-projects-2/). Currently I spend most of my time on the following projects:
+
+* [German and Polish COVID19 Forecast Hub](https://github.com/KITmetricslab/covid19-forecast-hub-de)
+* [US COVID19 Forecast Hub](https://covid19forecasthub.org/), led by the [Reich Lab](https://reichlab.io/) at UMass Amherst
+
+
+### Papers and Preprints
+
+* **Bracher J**, Ray EL, Gneiting T and Reich NG (2020) Evaluating epidemic forecasts in an interval format. Preprint available [here](https://arxiv.org/abs/2005.12881).
+* Ray EL, Wattanachit N, Niemi, J, Kanji AH, House, K, Cramer EY, Bracher, J et al (2020). Ensemble Forecasts of Coronavirus Disease 2019 (COVID-19) in the U.S. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.08.19.20177493v1).
+* Bracher, J and Held, L (2020) A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts. Biometrics, accepted. Preprint available [here](https://arxiv.org/abs/2003.05885").
+* **Bracher J** and Held L (2019). [Endemic-epidemic models with discrete-time serial interval distributions for infectious disease prediction](https://doi.org/10.1016/j.ijforecast.2020.07.002). Preprint available [here](https://arxiv.org/abs/1901.03090).
+* Nightingale ES, Chapman LAC, Srikantiah S, Subramanian S, Purushothaman J, **Bracher J**, Cameron M, and Medley G (2020) [A spatio-temporal approach to short-term forecasting of visceral leishmaniasis diagnoses in India](https://doi.org/10.1371/journal.pntd.0008422). </a> Preprint available [here](https://www.medrxiv.org/content/10.1101/19009258v2).
+* **Bracher J** (2019). [On the multibin logarithmic score used in the FluSight competitions](https://doi.org/10.1073/pnas.1912147116). Proceedings of the National Academy of Sciences, 116(42), 20809-20810. Preprint of an extended version available [here](https://arxiv.org/abs/1910.07084).
+* **Bracher J** (2019) [A new Poisson INARMA model with Poisson marginals](https://link.springer.com/chapter/10.1007/978-3-030-28665-1_24). In: Steland, A., Rafajlowicz, E., Okhrin, O. (Eds.): Stochastic Models, Statistics and Their Applications, 323-333. Springer. Preprint available [here](https://arxiv.org/abs/1910.07244).
+* **Bracher J** (2019). [Comment on “Under‐reported data analysis with INAR‐hidden Markov chains](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8032), Statistics in Medicine 38(5), 893-898. Preprint available [here](https://arxiv.org/abs/1812.06688).
+* Held L and **Bracher J** (2019). [Invited discussion on Osthus et al, 2019](https://projecteuclid.org/euclid.ba/1533866670), Bayesian Analysis 14(1), 296–300.
+* Held L, Meyer S and **Bracher J** (2017). [Probabilistic forecasting in infectious disease epidemiology: the 13th Armitage lecture](http://onlinelibrary.wiley.com/doi/10.1002/sim.7363), Statistics in Medicine 36(22), 3443-3460. Preprint available [here](https://www.biorxiv.org/content/10.1101/104000v1.abstract).
+* Keuschnigg M, Bader F and **Bracher J** (2016). [Using crowdsourced online experiments to study context-dependency of behavior](http://www.sciencedirect.com/science/article/pii/S0049089X16301818). Social Science Research 59, 68-82. Preprint available [here](https://liu.diva-portal.org/smash/get/diva2:1089302/FULLTEXT02.pdf).
+* Fuertes E, **Bracher J**, Flexeder C, Markevych I, Kl&uuml;mper C, Hoffmann B, Krämer U, von Berg A, Bauer C-P, Koletzko S, Berdel D, Heinrich J, Schulz H (2016). [Long-term air pollution exposure and lung function in 15 year-old adolescents living in an urban and rural area in Germany: The GINIplus and LISAplus cohorts](http://www.sciencedirect.com/science/article/pii/S1438463915000991), International Journal of Hygiene and Environmental Health 218(7), 656-665. Preprint available [here](https://spiral.imperial.ac.uk/handle/10044/1/60001)
+
