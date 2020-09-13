@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to my personal web page.
 
-I am a postdoctoral researcher at the [Chair of Statistics and Econometrics at Karlsruhe Insitute of Technology](https://statistik.econ.kit.edu/english/index.php) and the [Computational Statistics Group at Heidelberg Institute of Theoretical Studies](https://www.h-its.org/research/cst/). I am moreover a fellow of the [YIG Preparation Programme](http://www.kit.edu/research/yig_prep_pro.php) at KIT. You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
+I am a postdoctoral researcher working with [Melanie Schienle](https://statistik.econ.kit.edu/mitarbeiter_2068.php) at the [Chair of Statistics and Econometrics at Karlsruhe Insitute of Technology](https://statistik.econ.kit.edu/english/index.php) and [Tilmann Gneiting](https://www.h-its.org/2018/01/08/tilmann-gneiting/) in the [Computational Statistics Group at Heidelberg Institute of Theoretical Studies](https://www.h-its.org/research/cst/). I am moreover a fellow of the [YIG Preparation Programme](http://www.kit.edu/research/yig_prep_pro.php) at KIT. You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
 
 ### Research Interests
 
@@ -18,7 +18,7 @@ I am a postdoctoral researcher at the [Chair of Statistics and Econometrics at K
 * 2012: BSc Statistics, LMU Munich, Germany
 * 2013: BA Sociology, LMU Munich, Germany
 * 2016: MSc Statistics, LMU Munich, Germany
-* 2020: PhD Epidemiology and Biostatistics, University of Zurich, Switzerland. Thesis title: *Statistical modelling and forecsting of infectious disease surveillance counts.*
+* 2020: PhD Epidemiology and Biostatistics, University of Zurich, Switzerland. Thesis title: *Statistical modelling and forecsting of infectious disease surveillance counts.*. Supervisor: [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html).
 * since May 2020: Postdoctoral researcher, KIT Karlsruhe and HITS Heidelberg, Germany
 
 ### Current Projects
