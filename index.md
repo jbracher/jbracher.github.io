@@ -15,11 +15,12 @@ I am a postdoctoral researcher working with [Melanie Schienle](https://statistik
 
 ### Short Bio
 
-* 2012: BSc Statistics, LMU Munich, Germany
-* 2013: BA Sociology, LMU Munich, Germany
-* 2016: MSc Statistics, LMU Munich, Germany
-* 2020: PhD Epidemiology and Biostatistics, University of Zurich, Switzerland. Thesis title: *Statistical modelling and forecsting of infectious disease surveillance counts*. Supervisor: [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html).
 * since May 2020: Postdoctoral researcher, KIT Karlsruhe and HITS Heidelberg, Germany
+* 2020: PhD Epidemiology and Biostatistics, University of Zurich, Switzerland. Thesis title: *Statistical modelling and forecsting of infectious disease surveillance counts*. Supervisor: [Leonhard Held](https://www.ebpi.uzh.ch/en/aboutus/departments/biostatistics/teambiostats/held.html).
+* 2016: MSc Statistics, LMU Munich, Germany
+* 2013: BA Sociology, LMU Munich, Germany
+* 2012: BSc Statistics, LMU Munich, Germany
+
 
 ### Current Projects
 
