@@ -32,6 +32,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Papers and Preprints
 
+* **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2020). Short-term forecasting of COVID-19 in Germany and Poland during the second wave – a preregistered study. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.12.24.20248826v2).
 * **Bracher J**, Ray EL, Gneiting T and Reich NG (2020) Evaluating epidemic forecasts in an interval format. PLOS Computational Biology, accepted. Preprint available [here](https://arxiv.org/abs/2005.12881).
 * Ray EL, Wattanachit N, Niemi, J, Kanji AH, House, K, Cramer EY, **Bracher J** et al (2020). Ensemble Forecasts of Coronavirus Disease 2019 (COVID-19) in the U.S. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.08.19.20177493v1).
 * **Bracher, J** and Held, L (2020) [A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts](https://onlinelibrary.wiley.com/doi/10.1111/biom.13371). Biometrics, accepted. Preprint available [here](https://arxiv.org/abs/2003.05885).
