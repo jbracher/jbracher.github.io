@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to my personal web page.
 
-I am a postdoctoral researcher working with [Melanie Schienle](https://statistik.econ.kit.edu/mitarbeiter_2068.php) at the [Chair of Statistics and Econometrics](https://statistik.econ.kit.edu/english/index.php) at Karlsruhe Insitute for Technology and [Tilmann Gneiting](https://www.h-its.org/2018/01/08/tilmann-gneiting/) in the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute of Theoretical Studies. I am moreover a fellow of the [YIG Preparation Programme](http://www.kit.edu/research/yig_prep_pro.php) at KIT. You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
+I am a postdoctoral researcher working with [Melanie Schienle](https://statistik.econ.kit.edu/mitarbeiter_2068.php) at the [Chair of Statistics and Econometrics](https://statistik.econ.kit.edu/english/index.php) at Karlsruhe Insitute for Technology and [Tilmann Gneiting](https://www.h-its.org/2018/01/08/tilmann-gneiting/) in the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute of Theoretical Studies. I am moreover a fellow of the [YIG Preparation Programme](https://www.kit.edu/karriere/24606.php) at KIT. You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
 
 ### Research Interests
 
