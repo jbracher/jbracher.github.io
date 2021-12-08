@@ -6,6 +6,8 @@ layout: default
 
 I am a postdoctoral researcher working with [Melanie Schienle](https://statistik.econ.kit.edu/mitarbeiter_2068.php) at the [Chair of Statistics and Econometrics](https://statistik.econ.kit.edu/english/index.php) at Karlsruhe Insitute forof Technology and [Tilmann Gneiting](https://www.h-its.org/2018/01/08/tilmann-gneiting/) in the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute for Theoretical Studies. I am moreover a fellow of the [YIG Preparation Programme](https://www.kit.edu/karriere/24606.php) at KIT. You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
 
+My email address is [my first name].[my last name]@kit.edu.
+
 ### Research Interests
 
 * Epidemic forecasting
@@ -26,6 +28,7 @@ I am a postdoctoral researcher working with [Melanie Schienle](https://statistik
 
 My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot Project SIMCARD](https://www.helmholtz.de/en/research/information-data-science/information-data-science-pilot-projects/pilot-projects-2/). Currently I spend most of my time on the following projects:
 
+* [German COVID19 Nowcast Hub](https://covid19nowcasthub.de/) with daily nowcasts of the hospitalization inidence.
 * [European COVID19 Forecast Hub](https://covid19forecasthub.eu/), led by ECDC and [EpiForecasts](https://epiforecasts.io/)
 * [German and Polish COVID19 Forecast Hub](https://github.com/KITmetricslab/covid19-forecast-hub-de)
 * [US COVID19 Forecast Hub](https://covid19forecasthub.org/), led by the [Reich Lab](https://reichlab.io/) at UMass Amherst
@@ -33,6 +36,9 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Papers and Preprints
 
+* **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [*National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021*]. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
+* Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021).*Comparing human and model-based forecasts of COVID-19 in Germany and Poland* Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
+* Cramer EY, Huang Y, Wang Y, Ray EL, Cornell M, **Bracher J** et al (2021).  *The United States COVID-19 Forecast Hub dataset*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.04.21265886v1).
 * **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [*A pre-registered short-term forecasting study of COVID-19 in Germany and Poland during the second wave*](https://www.nature.com/articles/s41467-021-25207-0). Nature Communications, 12, 5173. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.12.24.20248826v2).
 * **Bracher J** and Littek JM (2021). *An empirical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259305v1).
 * Cramer EY, Ray EL, Lopez VM, **Bracher J** et al (2021).  *Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.02.03.21250974v1).
