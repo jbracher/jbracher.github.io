@@ -36,7 +36,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Papers and Preprints
 
-* **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [*National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021*]. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
+* **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). *National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
 * Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021).*Comparing human and model-based forecasts of COVID-19 in Germany and Poland* Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
 * Cramer EY, Huang Y, Wang Y, Ray EL, Cornell M, **Bracher J** et al (2021).  *The United States COVID-19 Forecast Hub dataset*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.04.21265886v1).
 * **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [*A pre-registered short-term forecasting study of COVID-19 in Germany and Poland during the second wave*](https://www.nature.com/articles/s41467-021-25207-0). Nature Communications, 12, 5173. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.12.24.20248826v2).
