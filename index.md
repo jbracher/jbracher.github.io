@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to my personal web page.
+## Johannes Bracher -- personal website
 
 I am a postdoctoral researcher working with [Melanie Schienle](https://statistik.econ.kit.edu/mitarbeiter_2068.php) at the [Chair of Statistics and Econometrics](https://statistik.econ.kit.edu/english/index.php) at Karlsruhe Insitute forof Technology and [Tilmann Gneiting](https://www.h-its.org/2018/01/08/tilmann-gneiting/) in the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute for Theoretical Studies. I am moreover a fellow of the [YIG Preparation Programme](https://www.kit.edu/karriere/24606.php) at KIT and a PI in the [Helmholtz Information and Data Science School for Health](https://www.hidss4health.de/). You can also find me on [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao) and [Twitter](https://twitter.com/johannesbracher).
 
