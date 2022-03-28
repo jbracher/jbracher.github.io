@@ -37,7 +37,8 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 ### Papers and Preprints
 
 * **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). *National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
-* Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021).*Comparing human and model-based forecasts of COVID-19 in Germany and Poland* Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
+* Ray EL, Brooks LC, Bien J, Biggerstaff M, Bosse NI, **Bracher J** et al (2022). *Comparing trained and untrained probabilistic ensemble forecasts of COVID-19 cases and deaths in the United States.* Preprint available [here](https://arxiv.org/abs/2201.12387).
+* Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021). *Comparing human and model-based forecasts of COVID-19 in Germany and Poland.* Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
 * Cramer EY, Huang Y, Wang Y, Ray EL, Cornell M, **Bracher J** et al (2021).  *The United States COVID-19 Forecast Hub dataset*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.04.21265886v1).
 * **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [*A pre-registered short-term forecasting study of COVID-19 in Germany and Poland during the second wave*](https://www.nature.com/articles/s41467-021-25207-0). Nature Communications, 12, 5173. Preprint available [here](https://www.medrxiv.org/content/10.1101/2020.12.24.20248826v2).
 * **Bracher J** and Littek JM (2021). *An empirical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods*. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259305v1).
@@ -55,11 +56,10 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 * Keuschnigg M, Bader F and **Bracher J** (2016). [*Using crowdsourced online experiments to study context-dependency of behavior*](http://www.sciencedirect.com/science/article/pii/S0049089X16301818). Social Science Research 59, 68-82. Preprint available [here](https://liu.diva-portal.org/smash/get/diva2:1089302/FULLTEXT02.pdf).
 * Fuertes E, **Bracher J**, Flexeder C, Markevych I, Kl&uuml;mper C, Hoffmann B, Krämer U, von Berg A, Bauer C-P, Koletzko S, Berdel D, Heinrich J, Schulz H (2016). [*Long-term air pollution exposure and lung function in 15 year-old adolescents living in an urban and rural area in Germany: The GINIplus and LISAplus cohorts*](http://www.sciencedirect.com/science/article/pii/S1438463915000991), International Journal of Hygiene and Environmental Health 218(7), 656-665. Preprint available [here](https://spiral.imperial.ac.uk/handle/10044/1/60001)
 
-<!---
 ### Recent talks
 
-* *Assembling, comparing and combining COVID-19 forecasts.* M2C Seminar Series, Frankfurt Institute of Advanced Studies (FIAS), 28 Oct 2020.
-* *Evaluating probabilistic COVID19 forecasts under partial missingness: A pairwise comparison approach.* MIDAS COVID-19 Modeling Collaboration Call, 27 Oct 2020. Slides available [here](https://covid19forecasthub.org/talks/2020-10-27-Bracher_Pairwise_Comparisons.pdf).
-* *Assembling, comparing and combining COVID-19 forecasts.* KI at KIT Online Lecture Series, Karlsruhe Institute of Technology, 28 Oct 2020.
-* *Assembling, comparing and combining COVID-19 forecasts.* HITS Scientific Seminar, Heidelberg Institute for Theoretical Studies, 28 Sep 2020.
--->
+Some slides from recent talks:
+
+* [*A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts.*](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/presentation.pdf) [Workshop on the Endemic-Epidemic framework for infectious disease modelling](https://cmmid.github.io/hhh4-workshop/), London School of Hygiene and Tropical Medicine, 23 Mar 2022. See also recording [here](https://youtu.be/JHIrP9bXGsk?t=2745).
+
+
