@@ -60,6 +60,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 Some slides from recent talks:
 
+* [*Collaborative nowcasting of COVID-19 hospitalization incidences*](https://github.com/jbracher/jbracher.github.io/raw/master/talks/presentation_DAGStat.pdf). [DAGStat Conference](https://www.dagstat2022.uni-hamburg.de/), Hamburg, 31 Mar 2022.
 * [*A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts.*](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/presentation.pdf) [Workshop on the Endemic-Epidemic framework for infectious disease modelling](https://cmmid.github.io/hhh4-workshop/), London School of Hygiene and Tropical Medicine, 23 Mar 2022. See also recording [here](https://youtu.be/JHIrP9bXGsk?t=2745).
 
 
