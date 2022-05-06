@@ -30,8 +30,13 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 * [German COVID19 Nowcast Hub](https://covid19nowcasthub.de/) with daily nowcasts of the seven-day hospitalization inidence.
 * [European COVID19 Forecast Hub](https://covid19forecasthub.eu/), led by ECDC and [EpiForecasts](https://epiforecasts.io/)
-* [German and Polish COVID19 Forecast Hub](https://github.com/KITmetricslab/covid19-forecast-hub-de)
 * [US COVID19 Forecast Hub](https://covid19forecasthub.org/), led by the [Reich Lab](https://reichlab.io/) at UMass Amherst
+
+<!---
+* [German and Polish COVID19 Forecast Hub](https://github.com/KITmetricslab/covid19-forecast-hub-de)
+-->
+
+
 
 
 ### Selected papers
@@ -47,6 +52,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 * Held L, Meyer S and **Bracher J** (2017). [Probabilistic forecasting in infectious disease epidemiology: the 13th Armitage lecture](http://onlinelibrary.wiley.com/doi/10.1002/sim.7363), *Statistics in Medicine* 36(22):3443-3460. Preprint available [here](https://www.biorxiv.org/content/10.1101/104000v1.abstract).
 
 <!---
+* Reich N, (2022). [Collaborative Hubs: Making the Most of Predictive Epidemic Modeling](https://ajph.aphapublications.org/doi/10.2105/AJPH.2022.306831). *American Journal of Public Health*, online first.
 * Keuschnigg M, Bader F and **Bracher J** (2016). [*Using crowdsourced online experiments to study context-dependency of behavior*](http://www.sciencedirect.com/science/article/pii/S0049089X16301818). Social Science Research 59, 68-82. Preprint available [here](https://liu.diva-portal.org/smash/get/diva2:1089302/FULLTEXT02.pdf).
 * Fuertes E, **Bracher J**, Flexeder C, Markevych I, Kl&uuml;mper C, Hoffmann B, Krämer U, von Berg A, Bauer C-P, Koletzko S, Berdel D, Heinrich J, Schulz H (2016). [*Long-term air pollution exposure and lung function in 15 year-old adolescents living in an urban and rural area in Germany: The GINIplus and LISAplus cohorts*](http://www.sciencedirect.com/science/article/pii/S1438463915000991), International Journal of Hygiene and Environmental Health 218(7), 656-665. Preprint available [here](https://spiral.imperial.ac.uk/handle/10044/1/60001)
 * **Bracher J** (2019) [*A new INARMA(1, 1) model with Poisson marginals*](https://link.springer.com/chapter/10.1007/978-3-030-28665-1_24). In: Steland, A., Rafajlowicz, E., Okhrin, O. (Eds.): Stochastic Models, Statistics and Their Applications, 323-333. Springer. Preprint available [here](https://arxiv.org/abs/1910.07244).
@@ -60,16 +66,17 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Recent preprints
 
-* Ray EL, Brooks LC, Bien J, Biggerstaff M, Bosse NI, **Bracher J** et al (2022). Comparing trained and untrained probabilistic ensemble forecasts of COVID-19 cases and deaths in the United States. Preprint available [here](https://arxiv.org/abs/2201.12387).
-* **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
-* Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021). Comparing human and model-based forecasts of COVID-19 in Germany and Poland. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
-* **Bracher J** and Littek JM (2021). An empirical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods. Preprint available [here](https://www.medrxiv.org/content/10.1101/2021.06.22.21259305v1).
+* Bracher J (2022). [A thinning-based representation of the compound-Poisson INGARCH model, with an interpretation as a stochastic epidemic process.](https://arxiv.org/abs/2204.12449)
+* Ray EL, Brooks LC, Bien J, Biggerstaff M, Bosse NI, **Bracher J** et al (2022). [Comparing trained and untrained probabilistic ensemble forecasts of COVID-19 cases and deaths in the United States](https://arxiv.org/abs/2201.12387).
+* **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
+* Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021). [Comparing human and model-based forecasts of COVID-19 in Germany and Poland](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
+* **Bracher J** and Littek JM (2021). [An empirical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods](https://www.medrxiv.org/content/10.1101/2021.06.22.21259305v1).
 
 ### Recent talks
 
 Some slides from recent talks:
 
-* [*Collaborative nowcasting of COVID-19 hospitalization incidences*](https://github.com/jbracher/jbracher.github.io/raw/master/talks/presentation_DAGStat.pdf). Hamburg, 31 Mar 2022, [DAGStat Conference](https://www.dagstat2022.uni-hamburg.de/).
-* [*A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts.*](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/presentation.pdf). London School of Hygiene and Tropical Medicine, 23 Mar 2022, [Workshop on the Endemic-Epidemic framework for infectious disease modelling](https://cmmid.github.io/hhh4-workshop/). See also recording [here](https://youtu.be/JHIrP9bXGsk?t=2745).
+* [Collaborative nowcasting of COVID-19 hospitalization incidences](https://github.com/jbracher/jbracher.github.io/raw/master/talks/presentation_DAGStat.pdf). Hamburg, 31 Mar 2022, [DAGStat Conference](https://www.dagstat2022.uni-hamburg.de/).
+* [A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts.](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/presentation.pdf). London School of Hygiene and Tropical Medicine, 23 Mar 2022, [Workshop on the Endemic-Epidemic framework for infectious disease modelling](https://cmmid.github.io/hhh4-workshop/). See also recording [here](https://youtu.be/JHIrP9bXGsk?t=2745).
 
 
