@@ -66,7 +66,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Recent preprints
 
-* Bracher J (2022). [A thinning-based representation of the compound-Poisson INGARCH model, with an interpretation as a stochastic epidemic process.](https://arxiv.org/abs/2204.12449)
+* *Bracher J* (2022). [A thinning-based representation of the compound-Poisson INGARCH model, with an interpretation as a stochastic epidemic process.](https://arxiv.org/abs/2204.12449)
 * Ray EL, Brooks LC, Bien J, Biggerstaff M, Bosse NI, **Bracher J** et al (2022). [Comparing trained and untrained probabilistic ensemble forecasts of COVID-19 cases and deaths in the United States](https://arxiv.org/abs/2201.12387).
 * **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
 * Bosse NI, Abbott S, **Bracher J**, Hain H, Quilty BJ et al (2021). [Comparing human and model-based forecasts of COVID-19 in Germany and Poland](https://www.medrxiv.org/content/10.1101/2021.12.01.21266598v1).
