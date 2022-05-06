@@ -28,7 +28,7 @@ My email address is [my first name].[my last name]@kit.edu.
 
 My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot Project SIMCARD](https://www.helmholtz.de/en/research/information-data-science/information-data-science-pilot-projects/pilot-projects-2/). Currently I spend most of my time on the following projects:
 
-* [German COVID19 Nowcast Hub](https://covid19nowcasthub.de/) with daily nowcasts of the seven-day hospitalization inidence.
+* [German COVID19 Nowcast Hub](https://covid19nowcasthub.de/) with daily nowcasts of the seven-day hospitalization incidence.
 * [European COVID19 Forecast Hub](https://covid19forecasthub.eu/), led by ECDC and [EpiForecasts](https://epiforecasts.io/)
 * [US COVID19 Forecast Hub](https://covid19forecasthub.org/), led by the [Reich Lab](https://reichlab.io/) at UMass Amherst
 
