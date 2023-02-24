@@ -8,6 +8,11 @@ I am a postdoctoral researcher working with [Melanie Schienle](https://statistik
 
 My email address is [my first name].[my last name]@kit.edu.
 
+### News
+
+I will establish a [DFG Emmy Noether Independent Junior Research Group](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) at KIT in April 2023. **I am planning to hire PhD students in the near future - do not hesitate to get in touch if you are interested.**
+
+
 ### Research Interests
 
 * Epidemic forecasting
@@ -66,6 +71,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Recent preprints
 
+* Bosse N, Abbott S, Cori A, van Leeuwen E, *Bracher J*, Funk S (2023). [Transformation of forecasts for evaluating predictive performance in an epidemiological context](https://www.medrxiv.org/content/10.1101/2023.01.23.23284722v1)
 * *Bracher J* (2022). [A thinning-based representation of the compound-Poisson INGARCH model, with an interpretation as a stochastic epidemic process.](https://arxiv.org/abs/2204.12449)
 * Ray EL, Brooks LC, Bien J, Biggerstaff M, Bosse NI, **Bracher J** et al (2022). [Comparing trained and untrained probabilistic ensemble forecasts of COVID-19 cases and deaths in the United States](https://arxiv.org/abs/2201.12387).
 * **Bracher J**, Wolffram D, Deuschel J, Görgen K, Ketterer J et al (2021). [National and subnational short-term forecasting of COVID-19 in Germany and Poland, early 2021](https://www.medrxiv.org/content/10.1101/2021.11.05.21265810v1).
@@ -74,8 +80,9 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 ### Recent talks
 
-Some slides from recent talks:
+Some slides and recordings from recent talks:
 
+* [Hoch oder runter? Nowcasting bei COVID-19](https://www.youtube.com/watch?v=wS4aGyPwEeA) (in German). Heidelberg, 9 July 2022, Open Doors Day, [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/).
 * [Collaborative nowcasting of COVID-19 hospitalization incidences](https://github.com/jbracher/jbracher.github.io/raw/master/talks/presentation_DAGStat.pdf). Hamburg, 31 Mar 2022, [DAGStat Conference](https://www.dagstat2022.uni-hamburg.de/).
 * [A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts.](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/presentation.pdf). London School of Hygiene and Tropical Medicine, 23 Mar 2022, [Workshop on the Endemic-Epidemic framework for infectious disease modelling](https://cmmid.github.io/hhh4-workshop/). See also recording [here](https://youtu.be/JHIrP9bXGsk?t=2745).
 
