@@ -82,6 +82,7 @@ My postdoctoral work is part of the [Helmholtz Information & Data Science Pilot 
 
 Some slides and recordings from recent talks:
 
+* [Score-based evaluation of epidemic forecasts](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/London_Bracher.pdf). London, 15 March 2023, [Forecasting infectious disease incidence for public health ](https://royalsociety.org/science-events-and-lectures/2023/03/infectious-disease-forecasting/).
 * [Hoch oder runter? Nowcasting bei COVID-19](https://www.youtube.com/watch?v=wS4aGyPwEeA) (in German). Heidelberg, 9 July 2022, Open Doors Day, [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/).
 * [Collaborative nowcasting of COVID-19 hospitalization incidences](https://github.com/jbracher/jbracher.github.io/raw/master/talks/presentation_DAGStat.pdf). Hamburg, 31 Mar 2022, [DAGStat Conference](https://www.dagstat2022.uni-hamburg.de/).
 * [A marginal moment matching approach for fitting endemic-epidemic models to underreported disease surveillance counts.](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/presentation.pdf). London School of Hygiene and Tropical Medicine, 23 Mar 2022, [Workshop on the Endemic-Epidemic framework for infectious disease modelling](https://cmmid.github.io/hhh4-workshop/). See also recording [here](https://youtu.be/JHIrP9bXGsk?t=2745).
