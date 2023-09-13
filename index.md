@@ -4,13 +4,13 @@ layout: default
 
 ## Johannes Bracher -- personal website
 
-I am currently an [Emmy Noether](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) independent junior research group leader at [Karlsruhe Institute of Technology](https://www.kit.edu/), Germany. I am moreover affiliated with the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute for Theoretical Studies. I am moreover a PI in the [Helmholtz Information and Data Science School for Health](https://www.hidss4health.de/). You can also find me on [my institutional website](https://statistik.econ.kit.edu/mitarbeiter_2902.php), [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao), [mastodon](https://mstdn.science/@johannes), [Twitter](https://twitter.com/johannesbracher).
+I am currently an [Emmy Noether](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) independent junior research group leader at [Karlsruhe Institute of Technology](https://www.kit.edu/), Germany. I am moreover affiliated with the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute for Theoretical Studies and serve as a PI in the [Helmholtz Information and Data Science School for Health](https://www.hidss4health.de/). You can also find me on [my institutional website](https://statistik.econ.kit.edu/mitarbeiter_2902.php), [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao), [mastodon](https://mstdn.science/@johannes), [Twitter](https://twitter.com/johannesbracher).
 
 My email address is [my first name].[my last name]@kit.edu.
 
 ### Open positions
 
-I will likely hire a PhD student in 2024. Do not hesitate to get in touch if you are interested. If you are interested in BSc or MSc theses at KIT likewise get in touch by email.
+I will likely hire a PhD student in 2024. Do not hesitate to get in touch if you are interested. If you are interested in a BSc or MSc thesis at KIT likewise get in touch by email.
 
 
 ### Research Interests
