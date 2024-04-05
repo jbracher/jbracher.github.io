@@ -4,7 +4,7 @@ layout: default
 
 ## Johannes Bracher -- personal website
 
-I am currently an [Emmy Noether](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) independent junior research group leader at [Karlsruhe Institute of Technology](https://www.kit.edu/), Germany. I am moreover affiliated with the [Computational Statistics Group](https://www.h-its.org/research/cst/) at Heidelberg Institute for Theoretical Studies and serve as a PI in the [Helmholtz Information and Data Science School for Health](https://www.hidss4health.de/). You can also find me on [my institutional website](https://statistik.econ.kit.edu/mitarbeiter_2902.php), [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao), [mastodon](https://mstdn.science/@johannes), [Twitter](https://twitter.com/johannesbracher).
+I am currently an Assistant Professor of *Health Statistics* ("Juniorprofessor" in German) and an [Emmy Noether](https://www.dfg.de/en/research_funding/programmes/individual/emmy_noether/index.html) junior research group leader at [Karlsruhe Institute of Technology](https://www.stat.kit.edu/), Germany. I am moreover affiliated with the [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/research/cst/) and serve as a PI in the [Helmholtz Information and Data Science School for Health](https://www.hidss4health.de/). You can also find me on [my institutional website](https://statistik.econ.kit.edu/mitarbeiter_2902.php), [Google Scholar](https://scholar.google.ch/citations?user=8FyFTxkAAAAJ&hl=de&oi=ao), [mastodon](https://mstdn.science/@johannes), [Twitter](https://twitter.com/johannesbracher).
 
 My email address is [my first name].[my last name]@kit.edu.
 
@@ -21,6 +21,7 @@ I will likely hire a PhD student in 2024. Do not hesitate to get in touch if you
 
 
 ### Short Bio
+* since 2024: Assistant professor ("Juniorprofessor" in German), [Karlsruhe Institute of Technology](https://www.stat.kit.edu/).
 * since 2023: Junior Research Group Leader, Karlsruhe Institute of Technology.
 * since 2020: guest researcher, [Computational Statistics Group](https://www.h-its.org/research/cst/), Heidelberg Institute for Theoretical Studies
 * 2020-2023: Postdoctoral researcher, [Chair of Statistics and Econometrics](https://statistik.econ.kit.edu/english/index.php), Karlsruhe Institute of Technology. Funding: [Helmholtz Information & Data Science Pilot Project SIMCARD](https://www.helmholtz.de/en/research/information-data-science/information-data-science-pilot-projects/pilot-projects-2/).
@@ -50,6 +51,7 @@ I am or was involved in various collaborative projects on infectious disease for
 
 *See my [Google Scholar profile](https://scholar.google.com/citations?user=8FyFTxkAAAAJ&hl=en&oi=ao) for an up-to-date bibliography.*
 
+* Brockhaus E, Wolffram D, [...], **Bracher J** (2023). [Why are different estimates of the effective reproductive number so different? A case study on COVID-19 in Germany](https://doi.org/10.1371/journal.pcbi.1011653). *PLOS Computational Biology* 19(11): e1011653. Open access.
 * Wolffram D, Abbott, [...], **Bracher J** (2023). [Collaborative nowcasting of COVID-19 hospitalization incidences in Germany](https://doi.org/10.1371/journal.pcbi.1011394). *PLOS Computational Biology* 19(8): e1011394. Open access.
 * Bosse N, Abbott S, Cori A, van Leeuwen E, **Bracher J**, Funk S (2023). [Scoring epidemiological forecasts on transformed scales](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011393). *PLOS Computational Biology* 19(8): e1011393.
 * Cramer EY, Ray EL, Lopez VM, **Bracher J** et al (2022).  [Evaluation of individual and ensemble probabilistic forecasts of COVID-19 mortality in the US](https://www.pnas.org/doi/abs/10.1073/pnas.2113561119). *Proceedings of the National Academy of Sciences* 119(15):e2113561119. Open access.
@@ -76,10 +78,9 @@ I am or was involved in various collaborative projects on infectious disease for
 
 ### Recent preprints
 
-* Brockhaus E, Wolffram D, [...], **Bracher J** (2023). [Why are different estimates of the effective reproductive number so different? A case study on COVID-19 in Germany](https://www.medrxiv.org/content/10.1101/2023.04.27.23289109v1).
+* **Bracher J** and Sobolová B (2024). [A class of count time series models uniting compound Poisson INAR and INGARCH models.](https://arxiv.org/abs/2204.12449)
 * **Bracher J** and Littek JM (2023). [A statistical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods](https://osf.io/ujpdg).
-* **Bracher J**, Rueter L, Krueger F, Lerch S, Schienle M (2023): [Direction Augmentation in the Evaluation of Armed Conflict Predictions](https://arxiv.org/abs/2304.12108). Accepted at *International Interactions*.
-* **Bracher J** (2022). [A thinning-based representation of the compound-Poisson INGARCH model, with an interpretation as a stochastic epidemic process.](https://arxiv.org/abs/2204.12449)
+
 
 
 ### Recent talks
