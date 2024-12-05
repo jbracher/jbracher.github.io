@@ -8,9 +8,10 @@ I am currently an Assistant Professor of *Health Statistics* ("Juniorprofessor" 
 
 My email address is [my first name].[my last name]@kit.edu.
 
-### Open positions
+### News
 
-I will likely hire a PhD student in 2024. Do not hesitate to get in touch if you are interested. If you are interested in a BSc or MSc thesis at KIT likewise get in touch by email.
+* On 4 December 2024, my group hosted the [South-West German Infectious Disease Modelling (SWIM) Workshop](https://swim.codeberg.page/) in Karlsruhe.
+* I will likely hire a PhD student in 2024/25. Do not hesitate to get in touch if you are interested. If you are a student at KIT and interested in a BSc or MSc thesis likewise get in touch by email.
 
 
 ### Research Interests
@@ -51,6 +52,7 @@ I am or was involved in various collaborative projects on infectious disease for
 
 *See my [Google Scholar profile](https://scholar.google.com/citations?user=8FyFTxkAAAAJ&hl=en&oi=ao) for an up-to-date bibliography.*
 
+* **Bracher J** and Littek JM (2023). [A statistical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods](https://doi.org/10.1093/jrsssa/qnae116). Accepted manuscript available [here](http://jbracher.de/Bracher_Littek_2024.pdf).
 * Brockhaus E, Wolffram D, [...], **Bracher J** (2023). [Why are different estimates of the effective reproductive number so different? A case study on COVID-19 in Germany](https://doi.org/10.1371/journal.pcbi.1011653). *PLOS Computational Biology* 19(11): e1011653. Open access.
 * Wolffram D, Abbott, [...], **Bracher J** (2023). [Collaborative nowcasting of COVID-19 hospitalization incidences in Germany](https://doi.org/10.1371/journal.pcbi.1011394). *PLOS Computational Biology* 19(8): e1011394. Open access.
 * Bosse N, Abbott S, Cori A, van Leeuwen E, **Bracher J**, Funk S (2023). [Scoring epidemiological forecasts on transformed scales](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011393). *PLOS Computational Biology* 19(8): e1011393.
@@ -79,14 +81,15 @@ I am or was involved in various collaborative projects on infectious disease for
 ### Recent preprints
 
 * **Bracher J** and Sobolová B (2024). [A class of count time series models uniting compound Poisson INAR and INGARCH models.](https://arxiv.org/abs/2204.12449)
-* **Bracher J** and Littek JM (2023). [A statistical assessment of influenza intensity thresholds obtained from the moving epidemic and WHO methods](https://osf.io/ujpdg).
 
 
 
-### Recent talks
+
+### Some talks
 
 Some slides and recordings from recent talks:
 
+* [The endemic-epidemic model as a semi-mechanistic spatio-temporal model of infectious disease spread](https://codeberg.org/EE-hub/hhh4geomed/raw/branch/main/slides/bigger_picture.pdf). [GeoMed 2024](https://www.uhasselt.be/en/events-en/2023-2024/geomed2024). Hasselt, 9 September 2024. See also workshop materials [here](https://smeyer.codeberg.page/hhh4geomed/).
 * [Score-based evaluation of epidemic forecasts](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/London_Bracher.pdf). London, 15 March 2023, [Forecasting infectious disease incidence for public health ](https://royalsociety.org/science-events-and-lectures/2023/03/infectious-disease-forecasting/).
 * [Hoch oder runter? Nowcasting bei COVID-19](https://www.youtube.com/watch?v=wS4aGyPwEeA) (in German). Heidelberg, 9 July 2022, Open Doors Day, [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/).
 * [Collaborative nowcasting of COVID-19 hospitalization incidences](https://github.com/jbracher/jbracher.github.io/raw/master/talks/presentation_DAGStat.pdf). Hamburg, 31 Mar 2022, [DAGStat Conference](https://www.dagstat2022.uni-hamburg.de/).
