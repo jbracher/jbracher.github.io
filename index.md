@@ -89,6 +89,8 @@ I am or was involved in various collaborative projects on infectious disease for
 
 Some slides and recordings from recent talks:
 
+* [Collaborative multi-model nowcasting of
+infectious diseases](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/slides_johannes_bilthoven.pdf). Future of Nowcasting Infectious Disease Meeting. Bilthoven, 13-14 February 2024.
 * [The endemic-epidemic model as a semi-mechanistic spatio-temporal model of infectious disease spread](https://codeberg.org/EE-hub/hhh4geomed/raw/branch/main/slides/bigger_picture.pdf). [GeoMed 2024](https://www.uhasselt.be/en/events-en/2023-2024/geomed2024). Hasselt, 9 September 2024. See also workshop materials [here](https://smeyer.codeberg.page/hhh4geomed/).
 * [Score-based evaluation of epidemic forecasts](https://raw.githubusercontent.com/jbracher/jbracher.github.io/master/talks/London_Bracher.pdf). London, 15 March 2023, [Forecasting infectious disease incidence for public health ](https://royalsociety.org/science-events-and-lectures/2023/03/infectious-disease-forecasting/).
 * [Hoch oder runter? Nowcasting bei COVID-19](https://www.youtube.com/watch?v=wS4aGyPwEeA) (in German). Heidelberg, 9 July 2022, Open Doors Day, [Heidelberg Institute for Theoretical Studies](https://www.h-its.org/).
