@@ -20,7 +20,7 @@ My email address is [my first name].[my last name]@kit.edu.
 Most of my group's research is centered around statistical methods for infectious disease epidemiology, but we also do some more theoretical work as well as statistical consulting. The following are our main topics (click to expand).
 
 <details style="margin-left: 1.5em;">
-<summary>**Multi-model nowcasting and forecasting of infectious disease spread** </summary>
+<summary>Multi-model nowcasting and forecasting of infectious disease spread </summary>
 Over time, we have operated various collaborative platforms for real-time nowcasting and short-term forecasting of infectious diseases (most recently the [RESPINOW Hub](https://respinowhub.de/)). We also work on methodological topics in this domain as part of my [Emmy Noether grant](https://gepris.dfg.de/gepris/projekt/512483310).
 
 **Selected papers:**
@@ -34,7 +34,7 @@ Over time, we have operated various collaborative platforms for real-time nowcas
 
 
 <details style="margin-left: 1.5em;">
-<summary>**Forecast evaluation** </summary>
+<summary>Forecast evaluation </summary>
 
 We are interested in principled and interpretable evaluation methods for probabilistic forecasts in infectious disease epidemiology and other fields.
 
@@ -49,7 +49,7 @@ We are interested in principled and interpretable evaluation methods for probabi
 
 
 <details style="margin-left: 1.5em;">
-<summary>**Simple statistical methods for disease surveillance.** </summary>
+<summary>Simple statistical methods for disease surveillance. </summary>
 Many types of statistical analyses in infectious disease surveillance are recurrent and need to be run on many time series without specific tuning. This creates a need for simple and robust methods. We are interested in the properties and improvement of such methods.
 
 
@@ -64,7 +64,7 @@ Many types of statistical analyses in infectious disease surveillance are recurr
 
 
 <details style="margin-left: 1.5em;">
-<summary>**Count time series modelling** </summary>
+<summary>Count time series modelling </summary>
 Count time series arise commonly in epidemiology and many other fields. We develop time series models tailored to such data.
 
 **Selected papers:**
@@ -76,7 +76,7 @@ Count time series arise commonly in epidemiology and many other fields. We devel
 
 
 <details style="margin-left: 1.5em;">
-<summary>**Statistical consulting** </summary>
+<summary>Statistical consulting </summary>
 
 We collaborate with researchers from various disciplines, providing statistical expertise for applied work.
 
